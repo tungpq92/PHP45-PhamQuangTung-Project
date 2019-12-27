@@ -9,7 +9,7 @@
 <body>
 	<button onclick="topFunction()" id="myBtn" title="Về đầu trang">&#9650;</button>
 	<script>
-		var mybutton = document.getElementById("myBtn");
+		/*var mybutton = document.getElementById("myBtn");
 		window.onscroll = function() {scrollFunction()};
 		function scrollFunction(){
   			if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20){
@@ -21,7 +21,7 @@
 		function topFunction(){
   			document.body.scrollTop = 0;
   			document.documentElement.scrollTop = 0;
-		}
+		}*/
 	</script>
 	<div class="wrapper">
 		<!-- header -->
@@ -198,7 +198,11 @@
 			</ul>
 		</div>
 		<script>
-			window.onscroll = function() {myFunction()};
+			var mybutton = document.getElementById("myBtn");
+			window.onscroll = function() {
+				myFunction();
+                scrollFunction();
+			};
 			var navbar = document.getElementById("menu-infoproduct");
 			var sticky = navbar.offsetTop;
 			function myFunction() {
@@ -208,6 +212,17 @@
     			navbar.classList.remove("sticky");
   				}
 			}
+			function scrollFunction(){
+  				if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20){
+    			mybutton.style.display = "block";
+ 				}else{
+    			mybutton.style.display = "none";
+  				}
+			}
+			function topFunction(){
+  			document.body.scrollTop = 0;
+  			document.documentElement.scrollTop = 0;
+		}
 		</script>
 		<div class="dac-diem-noi-bat" id="section1">
 			<div class="anh-san-pham">
@@ -332,8 +347,8 @@
 			<div class="title-operating"><span>Hệ điều hành IOS 12.0</span></div>
 			<div class="scroll">
 				<div class="items">
-					<img src="images/giao-dien-1.jpg">
-						<p>akgakghakghakgha</p>
+                    <img src="images/giao-dien-1.jpg">
+                    <p>akgakghakghakgha</p>
 				</div>
 				<div class="items">
 					1
@@ -350,18 +365,13 @@
 				<div class="items">
 					5
 				</div>
+                <div class="items">
+                    6
+                </div>
+                <div class="items">
+                    7
+                </div>
 			</div>
-			<script type="text/javascript">
-				$('.items').slick({
-  autoplay: true,
-  slidesToShow: 3,
-  slidesToScroll: 3,
-  dots: true,
-  infinite: true,
-  cssEase: 'linear',
-  rtl: false
-});
-			</script>
 			<div class="application">
 				<span>&#9658;</span><a href="#">&nbsp;Xem thêm, Ứng dụng miễn phí cho Iphone 6 Plus</a>
 			</div>
