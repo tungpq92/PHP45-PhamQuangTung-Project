@@ -2,92 +2,88 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f47f0a2-9a00-48c9-a58e-b01671b6171e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrapTheme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/ico/apple-touch-icon-114-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/ico/apple-touch-icon-144-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/ico/apple-touch-icon-57-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/ico/apple-touch-icon-72-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/ico/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/AjaxLoader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/demo-slides/controls.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/demo-slides/css3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/demo-slides/feather.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/demo-slides/grab.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/demo-slides/modern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/demo-slides/multi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/demo-slides/responsive.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/demo-slides/tons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/demo-slides/touch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/demo-slides/zombie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/glyphicons-halflings-green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/glyphicons-halflings-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/glyphicons-halflings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/owl-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/application.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap-collapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap-tab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap-transition.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/google-code-prettify/prettify.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/google-code-prettify/prettify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/google-code-prettify/run_prettify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery-1.9.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/changelog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/assets/fullimage1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/assets/fullimage2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/assets/fullimage3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/assets/fullimage4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/assets/fullimage5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/assets/fullimage6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/assets/fullimage7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/assets/owl1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/assets/owl2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/assets/owl3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/assets/owl4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/assets/owl5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/assets/owl6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/assets/owl7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/assets/owl8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/autoHeight.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/click.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/custom.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/customJson.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/full.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/images.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/itemsCustom.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/json.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/json/customData.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/json/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/lazyLoad.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/manipulations.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/navOnTop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/navOnTop2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/one.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/owlStatus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/progressBar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/randomOrder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/scaleup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/sync.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/transitions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/owl-carousel/AjaxLoader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/owl-carousel/grabbing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/owl-carousel/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/owl-carousel/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/owl-carousel/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/owl-carousel/owl.theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/owl-carousel/owl.transitions.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/owl.carousel.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/bootstrapTheme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ico/apple-touch-icon-114-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ico/apple-touch-icon-144-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ico/apple-touch-icon-57-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ico/apple-touch-icon-72-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ico/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/AjaxLoader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/demo-slides/controls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/demo-slides/css3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/demo-slides/feather.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/demo-slides/grab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/demo-slides/modern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/demo-slides/multi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/demo-slides/responsive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/demo-slides/tons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/demo-slides/touch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/demo-slides/zombie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/glyphicons-halflings-green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/glyphicons-halflings-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/glyphicons-halflings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/owl-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/application.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/bootstrap-collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/bootstrap-tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/bootstrap-transition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/google-code-prettify/prettify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/google-code-prettify/prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/google-code-prettify/run_prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery-1.9.1.min.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/chi-tiet-sp.html" beforeDir="false" afterPath="$PROJECT_DIR$/chi-tiet-sp.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style-chi-tiet-sp.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style-chi-tiet-sp.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style-trang-chu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style-trang-chu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trangchu.html" beforeDir="false" afterPath="$PROJECT_DIR$/trangchu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/assets/fullimage1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/assets/fullimage2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/assets/fullimage3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/assets/fullimage4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/assets/fullimage5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/assets/fullimage6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/assets/fullimage7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/assets/owl1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/assets/owl2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/assets/owl3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/assets/owl4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/assets/owl5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/assets/owl6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/assets/owl7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/assets/owl8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/autoHeight.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/click.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/custom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/customJson.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/full.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/images.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/itemsCustom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/json.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/json/customData.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/json/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/lazyLoad.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/manipulations.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/navOnTop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/navOnTop2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/one.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/owlStatus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/progressBar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/randomOrder.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/scaleup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/sync.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/transitions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/owl-carousel/AjaxLoader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/owl-carousel/grabbing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/owl-carousel/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/owl-carousel/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/owl-carousel/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/owl-carousel/owl.theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/owl-carousel/owl.transitions.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/owl.carousel.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,14 +98,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../shop dien thoai/chitietdienthoai.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="731" column="26" selection-start-line="731" selection-start-column="26" selection-end-line="731" selection-end-column="26" />
+              <folding>
+                <element signature="e#22028#22034#1" expanded="true" />
+                <element signature="e#22842#22848#1" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../shop dien thoai/js/detailjs.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-483">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+              <folding>
+                <element signature="e#237852#237898#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chi-tiet-sp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7287">
-              <caret line="347" column="32" selection-start-line="347" selection-start-column="32" selection-end-line="347" selection-end-column="32" />
+            <state relative-caret-position="83">
+              <caret line="304" column="33" lean-forward="true" selection-start-line="304" selection-start-column="16" selection-end-line="304" selection-end-column="33" />
               <folding>
-                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="4536" column="4" selection-start-line="4536" selection-start-column="4" selection-end-line="4536" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OwlCarousel2-2.3.4/src/js/owl.carousel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18270">
+              <caret line="870" column="69" selection-start-line="870" selection-start-column="69" selection-end-line="870" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -117,17 +157,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style-chi-tiet-sp.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16002">
-              <caret line="762" column="8" selection-start-line="762" selection-start-column="8" selection-end-line="762" selection-end-column="8" />
+            <state relative-caret-position="398">
+              <caret line="656" column="16" selection-start-line="656" selection-start-column="16" selection-end-line="656" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/trangchu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="771" column="14" lean-forward="true" selection-start-line="771" selection-start-column="14" selection-end-line="771" selection-end-column="14" />
+            <state relative-caret-position="18921">
+              <caret line="901" column="45" selection-start-line="901" selection-start-column="45" selection-end-line="901" selection-end-column="45" />
               <folding>
                 <element signature="n#style#0;n#div#3;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#5;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -156,9 +196,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../shop dien thoai/css/chitietsanpham.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="31311">
+              <caret line="1491" column="1" selection-start-line="1491" selection-start-column="1" selection-end-line="1491" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../shop dien thoai/js/jquery.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style-trang-chu.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
+            <state relative-caret-position="12285">
               <caret line="585" column="1" selection-start-line="585" selection-start-column="1" selection-end-line="585" selection-end-column="1" />
             </state>
           </provider>
@@ -168,10 +226,43 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>scroll</find>
       <find>show</find>
       <find>tool</find>
+      <find>owl-car</find>
+      <find>showdropdownsh</find>
+      <find>none</find>
+      <find>#boxos</find>
+      <find>#owl-osgallery</find>
+      <find>wrap_introimg</find>
+      <find>thong-so</find>
+      <find>owl-carousel.</find>
+      <find>paraexpand</find>
+      <find>.js</find>
+      <find>owl</find>
+      <find>touchslide</find>
+      <find>return false</find>
+      <find>owl-theme</find>
+      <find>.none</find>
+      <find>owl-carousel</find>
+      <find>detail</find>
+      <find>owl-c</find>
+      <find>LoadOS</find>
+      <find>osgallery</find>
+      <find>chi ti</find>
+      <find>8.0</find>
+      <find>drop</find>
+      <find>javascript</find>
+      <find>dropdw</find>
+      <find>slide</find>
+      <find>thong-so-ky-thuat</find>
+      <find>owl-osgallery</find>
     </findStrings>
+    <replaceStrings>
+      <replace>12</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\shop dien thoai</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -179,14 +270,21 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/style-chi-tiet-sp.css" />
-        <option value="$PROJECT_DIR$/chi-tiet-sp.html" />
         <option value="$PROJECT_DIR$/css/style-trang-chu.css" />
         <option value="$PROJECT_DIR$/trangchu.html" />
+        <option value="C:/xampp/htdocs/webbandienthoai/index.php" />
+        <option value="$PROJECT_DIR$/../shop dien thoai/js/jquery.jcarousel.min.js" />
+        <option value="$PROJECT_DIR$/../shop dien thoai/js/jquery.min.js" />
+        <option value="$PROJECT_DIR$/OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css" />
+        <option value="$PROJECT_DIR$/../shop dien thoai/css/chitietsanpham.css" />
+        <option value="$PROJECT_DIR$/../shop dien thoai/chitietdienthoai.html" />
+        <option value="$PROJECT_DIR$/../shop dien thoai/js/detailjs.min.js" />
+        <option value="$PROJECT_DIR$/chi-tiet-sp.html" />
+        <option value="$PROJECT_DIR$/css/style-chi-tiet-sp.css" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1750" />
@@ -198,7 +296,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,20 +303,18 @@
               <item name="PHP45-PhamQuangTung-Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="PHP45-PhamQuangTung-Project" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PHP45-PhamQuangTung-Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PHP45-PhamQuangTung-Project" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shop dien thoai" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -246,18 +341,21 @@
       <workItem from="1577244950675" duration="1526000" />
       <workItem from="1577269902384" duration="684000" />
       <workItem from="1577361519385" duration="728000" />
-      <workItem from="1577416501506" duration="1604000" />
+      <workItem from="1577416501506" duration="3855000" />
+      <workItem from="1577693562007" duration="2567000" />
+      <workItem from="1577761503281" duration="8766000" />
+      <workItem from="1577805613720" duration="3513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5137000" />
+    <option name="totallyTimeSpent" value="22234000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23825504" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22080536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -277,39 +375,64 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22080536" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chi-tiet-sp.html">
+    <entry file="file://$PROJECT_DIR$/../shop dien thoai/css/css_kcY6.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop dien thoai/js/jquery.jcarousel.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7287">
-          <caret line="347" column="32" selection-start-line="347" selection-start-column="32" selection-end-line="347" selection-end-column="32" />
+        <state relative-caret-position="-4434">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
           <folding>
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style-chi-tiet-sp.css">
+    <entry file="file://$PROJECT_DIR$/../shop dien thoai/scrollprogressJS-master/scrollprogressJS.js" />
+    <entry file="file://$PROJECT_DIR$/changelog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16002">
-          <caret line="762" column="8" selection-start-line="762" selection-start-column="8" selection-end-line="762" selection-end-column="8" />
+        <state relative-caret-position="1574">
+          <caret line="245" column="20" selection-start-line="245" selection-start-column="17" selection-end-line="245" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style-trang-chu.css">
+    <entry file="file://C:/xampp/htdocs/webbandienthoai/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="585" column="1" selection-start-line="585" selection-start-column="1" selection-end-line="585" selection-end-column="1" />
+        <state relative-caret-position="252">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/trangchu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="771" column="14" lean-forward="true" selection-start-line="771" selection-start-column="14" selection-end-line="771" selection-end-column="14" />
+        <state relative-caret-position="18921">
+          <caret line="901" column="45" selection-start-line="901" selection-start-column="45" selection-end-line="901" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#div#3;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#5;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -332,6 +455,80 @@
             <element signature="n#style#0;n#b#0;n#h4#0;n#div#0;n#a#0;n#li#0;n#ul#8;n#div#7;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#b#0;n#strong#0;n#span#0;n#h6#0;n#div#0;n#a#0;n#li#0;n#ul#8;n#div#7;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#strike#0;n#p#0;n#div#0;n#div#9;n#div#0;n#div#1;n#div#1;n#div#9;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop dien thoai/css/chitietsanpham.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31311">
+          <caret line="1491" column="1" selection-start-line="1491" selection-start-column="1" selection-end-line="1491" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop dien thoai/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style-trang-chu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12285">
+          <caret line="585" column="1" selection-start-line="585" selection-start-column="1" selection-end-line="585" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OwlCarousel2-2.3.4/src/js/owl.carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18270">
+          <caret line="870" column="69" selection-start-line="870" selection-start-column="69" selection-end-line="870" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="4536" column="4" selection-start-line="4536" selection-start-column="4" selection-end-line="4536" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chi-tiet-sp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="304" column="33" lean-forward="true" selection-start-line="304" selection-start-column="16" selection-end-line="304" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style-chi-tiet-sp.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="656" column="16" selection-start-line="656" selection-start-column="16" selection-end-line="656" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop dien thoai/js/detailjs.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-483">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="e#237852#237898#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop dien thoai/chitietdienthoai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="731" column="26" selection-start-line="731" selection-start-column="26" selection-end-line="731" selection-end-column="26" />
+          <folding>
+            <element signature="e#22028#22034#1" expanded="true" />
+            <element signature="e#22842#22848#1" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
